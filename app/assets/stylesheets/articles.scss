@@ -1,3 +1,13 @@
 // Place all the styles related to the Articles controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+    word-break: break-word;
+    line-height: 1.5;
+}
+
+textarea {
+    width: 500px;
+    height: 220px;
+}
